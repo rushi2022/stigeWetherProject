@@ -1,0 +1,8 @@
+first open terminal:
+then typr"npm install"
+
+if it is react project than type
+"npm start"
+
+if it is normal node proj
+then type "node app,js"
